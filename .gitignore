@@ -1,0 +1,7 @@
+# Obsidian workspace & transient state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+*.tmp
+.DS_Store
