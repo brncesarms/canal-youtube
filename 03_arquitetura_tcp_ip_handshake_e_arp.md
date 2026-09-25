@@ -1,3 +1,19 @@
+---
+title: "Aula 03: Arquitetura TCP/IP, Three-Way Handshake, Portas e ARP no RouterOS v7"
+date_created: 2026-09-24
+last_modified: 2026-09-25
+author: "Bruno César"
+privacy: public
+tags:
+  - publico
+  - canal-youtube
+  - mikrotik
+  - tcp-ip
+  - handshake
+  - arp
+  - firewall
+---
+
 # 🤝 Aula 03: Arquitetura TCP/IP, Three-Way Handshake & Tabela ARP
 
 > **Série:** Curso MikroTik Básico 2026  
@@ -131,6 +147,9 @@ Um dos maiores desafios conceituais de iniciantes é compreender como o roteador
 
 ---
 
-## 🔗 Navegação
-- ⬅️ [[02_enderecamento_ipv4_e_mascaras_cidr|Aula 02: Endereçamento IPv4 & Máscaras CIDR]]
-- ➡️ [[README|Voltar ao Índice do Curso]]
+## 🔗 Navegação & Notas Relacionadas
+- ⬅️ [Aula 02: Endereçamento IPv4 & Máscaras CIDR](02_enderecamento_ipv4_e_mascaras_cidr.md)
+- 📋 [Caderno de Bancada & Índice Geral](README.md)
+- 🌐 [Redes: Redirecionamento de Portas (Port Forwarding)](../redes/02_mikrotik/01_mikrotik_basico/05_redirecionamento_porta.md) — Aplicação prática de portas TCP/UDP.
+- 🌐 [Redes: Configuração de NAT no MikroTik](../redes/02_mikrotik/01_mikrotik_basico/03_nat.md) — Masquerade e src-nat.
+

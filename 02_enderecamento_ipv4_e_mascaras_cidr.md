@@ -1,3 +1,18 @@
+---
+title: "Aula 02: Endereçamento IPv4 & Planejamento de Máscaras CIDR sem Decoreba"
+date_created: 2026-09-24
+last_modified: 2026-09-25
+author: "Bruno César"
+privacy: public
+tags:
+  - publico
+  - canal-youtube
+  - mikrotik
+  - ipv4
+  - cidr
+  - redes
+---
+
 # 🌐 Aula 02: Endereçamento IPv4 & Notação CIDR sem Decoreba
 
 > **Série:** Curso MikroTik Básico 2026  
@@ -102,6 +117,10 @@ No RouterOS v7, você configura um enlace `/31` da seguinte forma:
 
 ---
 
-## 🔗 Navegação
-- ⬅️ [[01_introducao_ecossistema_mikrotik_2026|Aula 01: O Novo Ecossistema MikroTik em 2026]]
-- ➡️ [[03_arquitetura_tcp_ip_handshake_e_arp|Aula 03: Arquitetura TCP/IP, Three-Way Handshake e ARP]]
+## 🔗 Navegação & Notas Relacionadas
+- ⬅️ [Aula 01: O Novo Ecossistema MikroTik em 2026](01_introducao_ecossistema_mikrotik_2026.md)
+- ➡️ [Aula 03: Arquitetura TCP/IP, Three-Way Handshake e ARP](03_arquitetura_tcp_ip_handshake_e_arp.md)
+- 📋 [Caderno de Bancada & Índice Geral](README.md)
+- 🌐 [Redes: IPs da Rede Interna](../redes/01_redes_basico/01_ips_rede_interna.md) — Tabela prática de blocos e gateway.
+- 🌐 [Redes: Configuração de IP, Pool e DHCP no MikroTik](../redes/02_mikrotik/01_mikrotik_basico/01_ip_dns_pool_dhcp.md)
+

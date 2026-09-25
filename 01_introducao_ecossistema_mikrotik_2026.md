@@ -1,3 +1,18 @@
+---
+title: "Aula 01: O Novo Ecossistema MikroTik em 2026: Do ARM64 ao RouterOS v7"
+date_created: 2026-09-24
+last_modified: 2026-09-25
+author: "Bruno César"
+privacy: public
+tags:
+  - publico
+  - canal-youtube
+  - mikrotik
+  - routeros7
+  - arm64
+  - hardware
+---
+
 # 🚀 Aula 01: O Novo Ecossistema MikroTik em 2026
 
 > **Série:** Curso MikroTik Básico 2026  
@@ -64,6 +79,9 @@ Para os estudos práticos e simulação de topologias avançadas sem a necessida
 
 ---
 
-## 🔗 Navegação
-- ⬅️ [[README|Voltar ao Índice]]
-- ➡️ [[02_enderecamento_ipv4_e_mascaras_cidr|Avançar para Aula 02: Endereçamento IPv4 & Máscaras CIDR]]
+## 🔗 Navegação & Notas Relacionadas
+- ➡️ [Avançar para Aula 02: Endereçamento IPv4 & Máscaras CIDR](02_enderecamento_ipv4_e_mascaras_cidr.md)
+- 📋 [Caderno de Bancada & Índice Geral](README.md)
+- 🌐 [Redes: Comandos Básicos de Proteção MikroTik](../redes/02_mikrotik/02_mikrotik_firewall/01_basico_para_proteger_seu_mikrotik.md)
+- 🧰 [Redes: Acesso SSH ao MikroTik via Linux](../redes/02_mikrotik/01_mikrotik_basico/12_acesso_ssh_mikrotik_via_terminal_linux.md)
+
